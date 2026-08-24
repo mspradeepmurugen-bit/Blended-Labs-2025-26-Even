@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Pradeep.M
+* **Register Number**:212225220071
+* **Date of Submission**: 24/08/26
 
 ---
 
@@ -109,23 +109,11 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
+<img width="1110" height="537" alt="Screenshot 2026-08-24 113158" src="https://github.com/user-attachments/assets/265c14ed-77b7-488a-8adc-e808b74c872d" />
 
-(Insert Screenshot Here)
-
----
 
 ### Screenshot 2: SSH Connection to Instance
-
-(Insert Screenshot Here)
-
----
-
-### Screenshot 3: Instance Monitoring / Status
-
-(Insert Screenshot Here)
-
----
-
+<img width="922" height="183" alt="Screenshot 2026-08-24 113217" src="https://github.com/user-attachments/assets/3703590e-d79b-49c6-9eb4-e4fd386bcab8" />
 ## Result 
 
 This experiment provided hands-on experience with Amazon EC2 by demonstrating how to launch, connect, manage, and monitor a virtual server in AWS. It helped in understanding the concept of Infrastructure as a Service (IaaS) and how compute resources can be provisioned and controlled on demand in the cloud.
