@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Pradeep.M
+* **Register Number: 212225220071
+* **Date of Submission**: 25/08/26
 
 ---
 
@@ -80,33 +80,26 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. cilck on start lab and start 
+2. create the EBS volume
+3. Create the mount volume
+4. Store the Data in EBS volume
+5. verify Data Persistence 
 
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EBS Volume Created
+<img width="1897" height="965" alt="Screenshot 2026-08-24 205856" src="https://github.com/user-attachments/assets/bf1e658d-bad1-49d3-9c41-2eea88f4af71" />
 
-(Insert Screenshot Here)
-
----
 
 ### Screenshot 2: EBS Volume Attached to EC2
-
-(Insert Screenshot Here)
-
----
+<img width="1892" height="973" alt="Screenshot 2026-08-24 210220" src="https://github.com/user-attachments/assets/72d90816-4162-4991-9b34-d40d753456c7" />
 
 ### Screenshot 3: Mounted Volume with Data
+<img width="1916" height="962" alt="Screenshot 2026-08-24 212020" src="https://github.com/user-attachments/assets/d2783afa-62cf-4881-bc3a-8b70195895be" />
 
-(Insert Screenshot Here)
-
----
 
 ## Result / Conclusion
 
